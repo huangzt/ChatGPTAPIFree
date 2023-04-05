@@ -1,3 +1,6 @@
+# 可配置代理访问官网API
+具体查看: .env.example 文件
+
 # 免费 ChatGPT API
 
 欢迎来到免费 ChatGPT API 项目，这是一个简单且开源的代理 API，您可以免费访问 OpenAI 的 ChatGPT API。

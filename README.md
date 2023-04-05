@@ -1,3 +1,7 @@
+# Configurable Proxy to Access Official Website APIs
+
+Please refer to the .env.example file for details.
+
 # ChatGPT API Free
 
 [简体中文版](README-zh_CN.md) - [繁體中文版](README-zh_HK.md)
