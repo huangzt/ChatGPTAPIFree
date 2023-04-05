@@ -2,14 +2,13 @@
   "name": "chatgpt-api",
   "version": "1.0.0",
   "private": false,
-  "type": "module",
   "engines": {
     "node": "^16 || ^18 || ^19"
   },
   "scripts": {
     "start": "esno ./src/index.ts",
     "dev": "esno watch ./src/index.ts",
-    "prod": "esno ./build/index.cjs",
+    "prod": "esno ./build/index.js",
     "build": "pnpm clean && tsup",
     "clean": "rimraf build",
     "lint": "eslint .",
